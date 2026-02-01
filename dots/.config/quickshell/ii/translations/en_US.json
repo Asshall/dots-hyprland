@@ -325,6 +325,7 @@
   "That didn't work. Tips:\n- Check your tags and NSFW settings\n- If you don't have a tag in mind, type a page number": "That didn't work. Tips:\n- Check your tags and NSFW settings\n- If you don't have a tag in mind, type a page number",
   "Dots": "Dots",
   "Cloudflare WARP (1.1.1.1)": "Cloudflare WARP (1.1.1.1)",
+  "Home VPN": "Home VPN",
   "Volume mixer": "Volume mixer",
   "Config file": "Config file",
   "API key set for %1": "API key set for %1",
@@ -606,3 +607,4 @@
   "Use varying shapes for password characters": "Use varying shapes for password characters",
   "Battery full": "Battery full"
 }
+
